@@ -454,9 +454,9 @@
             "#2678d6"
         ],
         "TEXT_NORMAL": [
-            "#dcddde",
-            "#dcddde",
-            "#dcddde"
+            "#fff",
+            "#fff",
+            "#fff"
         ],
         "TEXT_POSITIVE": [
             "#689d6a",
@@ -517,7 +517,7 @@
     },
     "background": {
         "url": "https://i.imgur.com/kCndyb2.jpeg",
-	"alpha": 1
+	"alpha": .5
     },
     "plus": {
         "version": 0,
