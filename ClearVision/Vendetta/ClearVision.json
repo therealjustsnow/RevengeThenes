@@ -297,6 +297,21 @@
             "#6A00FF33",
             "#6A00FF33",
             "#6A00FF33"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#00000099",
+            "#00000099",
+            "#00000099"
+        ],
+        "REPLY_BAR_BACKGROUND": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "TEXT_CODE": [
+            "#D1D1D1",
+            "#D1D1D1",
+            "#D1D1D1"
         ]
     },
     "rawColors": {
