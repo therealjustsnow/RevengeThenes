@@ -14,14 +14,14 @@
             "#6A00FF"
         ],
         "ACTIVITY_CARD_BACKGROUND": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_FLOATING": [
-            "#0B0D12",
-            "#0B0D12",
-            "#0B0D12"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_MENTIONED": [
             "#6A00FF08",
@@ -39,14 +39,14 @@
             "#AB33FF08"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0B0D12",
-            "#0B0D12",
-            "#0B0D12"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#11141B",
-            "#11141B",
-            "#11141B"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_ACCENT": [
             "#6A00FF",
@@ -74,29 +74,29 @@
             "#6A00FF60"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#11141B",
-            "#11141B",
-            "#11141B"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0B0D12",
-            "#0B0D12",
-            "#0B0D12"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_SECONDARY": [
-            "#161A23",
-            "#161A23",
-            "#161A23"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1C2230",
-            "#1C2230",
-            "#1C2230"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_TERTIARY": [
-            "#11141B",
-            "#11141B",
-            "#11141B"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BG_BACKDROP": [
             "#0B0D12CC",
@@ -104,24 +104,24 @@
             "#0B0D12CC"
         ],
         "BG_BASE_PRIMARY": [
-            "#0B0D12",
-            "#0B0D12",
-            "#0B0D12"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#0B0D12",
-            "#0B0D12",
-            "#0B0D12"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "CARD_PRIMARY_BG": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "CARD_SECONDARY_BG": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "CHANNELS_DEFAULT": [
             "#6A00FF",
@@ -134,9 +134,9 @@
             "#6A00FFB3"
         ],
         "CHAT_BACKGROUND": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#87FCFC",
@@ -144,14 +144,19 @@
             "#87FCFC"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#161A23",
-            "#161A23",
-            "#161A23"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "EMBED_BACKGROUND": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "HEADER_SECONDARY": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF",
@@ -184,14 +189,14 @@
             "#AB33FF"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#11141B",
-            "#11141B",
-            "#11141B"
+            "#6A00FF80",
+            "#6A00FF80",
+            "#6A00FF80"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#161A23",
-            "#161A23",
-            "#161A23"
+            "#0000004D",
+            "#0000004D",
+            "#0000004D"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#87FCFC",
@@ -258,15 +263,20 @@
             "#FFFFFF",
             "#FFFFFF"
         ],
+        "MOBILE_TEXT_HEADING_SECONDARY": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
+        ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#AB33FF",
             "#AB33FF",
             "#AB33FF"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#1C2230",
-            "#1C2230",
-            "#1C2230"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#6A00FF",
@@ -299,9 +309,9 @@
             "#6A00FF33"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "REPLY_BAR_BACKGROUND": [
             "#6A00FF",
@@ -318,10 +328,10 @@
         "PRIMARY_MAIN": "#6A00FF",
         "PRIMARY_HOVER": "#AB33FF",
         "PRIMARY_ALT": "#87FCFC",
-        "BLACK_900": "#0B0D12",
-        "BLACK_800": "#11141B",
-        "BLACK_700": "#161A23",
-        "BLACK_600": "#1C2230",
+        "BLACK_900": "#000000B3",
+        "BLACK_800": "#000000B3",
+        "BLACK_700": "#000000B3",
+        "BLACK_600": "#000000B3",
         "WHITE_500": "#FFFFFF",
         "RED_400": "#6A00FF",
         "RED_500": "#AB33FF",
@@ -340,7 +350,10 @@
             "ic_soundboard": "#6A00FF",
             "ic_soundboard_muted": "#AB33FF",
             "ic_video": "#6A00FF",
-            "ic_video_disabled": "#AB33FF"
+            "ic_video_disabled": "#AB33FF",
+            "ic_settings_24px": "#6A00FF",
+            "ic_user_profile_24px": "#6A00FF",
+            "ic_help_24px": "#6A00FF"
         }
     },
     "spec": 2
