@@ -124,14 +124,14 @@
             "#161A23"
         ],
         "CHANNELS_DEFAULT": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "CHANNEL_ICON": [
-            "#87FCFC80",
-            "#87FCFC80",
-            "#87FCFC80"
+            "#6A00FFB3",
+            "#6A00FFB3",
+            "#6A00FFB3"
         ],
         "CHAT_BACKGROUND": [
             "transparent",
@@ -269,9 +269,9 @@
             "#6A00FF"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "TEXT_SUBTLE": [
             "#6A00FF",
