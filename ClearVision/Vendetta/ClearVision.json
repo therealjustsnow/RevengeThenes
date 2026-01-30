@@ -1,11 +1,16 @@
-{ "name": "ClearVision Purple v1.0", 
-  "description": "Clear Vision with intentional purple accents and restored hierarchy.",
-  "authors": [ { "name": "Snow", "id": "335677038830" } ],
+{ "name": "ClearVision Purple v1.1",
+  "description": "Clear Vision with purple accents.", "authors": [ { "name": "Snow", "id": "335677038830" } ],
   "semanticColors": {
     "ANDROID_RIPPLE": [ 
       "#6A00FF", 
       "#6A00FF", 
       "#6A00FF" 
+    ],
+
+    "BACKGROUND_BRAND": [
+      "#6A00FF",
+      "#6A00FF",
+      "#6A00FF"
     ],
 
 "ACTIVITY_CARD_BACKGROUND": [
@@ -33,9 +38,9 @@
     ],
 
     "BACKGROUND_MESSAGE_HOVER": [
-        "#E33D9408",
-        "#E33D9408",
-        "#E33D9408"
+        "#AB33FF08",
+        "#AB33FF08",
+        "#AB33FF08"
     ],
 
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -69,9 +74,9 @@
     ],
 
     "BACKGROUND_MODIFIER_HOVER": [
-        "#E33D9430",
-        "#E33D9430",
-        "#E33D9430"
+        "#AB33FF30",
+        "#AB33FF30",
+        "#AB33FF30"
     ],
 
     "BACKGROUND_MODIFIER_SELECTED": [
@@ -195,9 +200,9 @@
     ],
 
     "INTERACTIVE_HOVER": [
-        "#E33D94",
-        "#E33D94",
-        "#E33D94"
+        "#AB33FF",
+        "#AB33FF",
+        "#AB33FF"
     ],
 
     "INTERACTIVE_ACTIVE": [
@@ -225,9 +230,9 @@
     ],
 
     "STATUS_DANGER_TEXT": [
-        "#E33D94",
-        "#E33D94",
-        "#E33D94"
+        "#AB33FF",
+        "#AB33FF",
+        "#AB33FF"
     ]
 },
 
@@ -239,9 +244,9 @@
     ],
 
     "PRIMARY_HOVER": [
-        "#E33D94",
-        "#E33D94",
-        "#E33D94"
+        "#AB33FF",
+        "#AB33FF",
+        "#AB33FF"
     ],
 
     "PRIMARY_ALT": [
@@ -291,11 +296,11 @@
     "customOverlays": true,
     "icons": {
         "ic_mic_neutral": "#6A00FF",
-        "ic_mic_muted_neutral": "#E33D94",
+        "ic_mic_muted_neutral": "#AB33FF",
         "ic_soundboard": "#6A00FF",
-        "ic_soundboard_muted": "#E33D94",
+        "ic_soundboard_muted": "#AB33FF",
         "ic_video": "#6A00FF",
-        "ic_video_disabled": "#E33D94"
+        "ic_video_disabled": "#AB33FF"
     },
     "iconpack": "rosiecord-plumpy"
 },
