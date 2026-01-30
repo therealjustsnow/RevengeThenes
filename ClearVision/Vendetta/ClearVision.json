@@ -227,6 +227,61 @@
             "#6A00FF33",
             "#6A00FF33",
             "#6A00FF33"
+        ],
+        "BACKGROUND_BRAND": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "INTERACTIVE_TEXT_ACTIVE": [
+            "#87FCFC",
+            "#87FCFC",
+            "#87FCFC"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "MOBILE_TEXT_HEADING_PRIMARY": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#1C2230",
+            "#1C2230",
+            "#1C2230"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#87FCFC",
+            "#87FCFC",
+            "#87FCFC"
+        ],
+        "TEXT_SUBTLE": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ]
     },
     "rawColors": {
@@ -239,11 +294,12 @@
         "BLACK_600": "#1C2230",
         "WHITE_500": "#FFFFFF",
         "RED_400": "#6A00FF",
-        "RED_500": "#AB33FF"
+        "RED_500": "#AB33FF",
+        "BRAND_500": "#6A00FF"
     },
     "background": {
         "url": "https://i.imgur.com/kCndyb2.jpeg",
-        "alpha": 0.15
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
@@ -255,8 +311,7 @@
             "ic_soundboard_muted": "#AB33FF",
             "ic_video": "#6A00FF",
             "ic_video_disabled": "#AB33FF"
-        },
-        "iconpack": "rosiecord-plumpy"
+        }
     },
     "spec": 2
 }
