@@ -149,9 +149,9 @@
             "#161A23"
         ],
         "EMBED_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#00000099",
+            "#00000099",
+            "#00000099"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF",
