@@ -313,8 +313,8 @@
         "BRAND_500": "#6A00FF"
     },
     "background": {
-        "url": "https://i.imgur.com/kCndyb2.jpeg",
-        "alpha": 0.5
+        "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
+        "alpha": 0.15
     },
     "plus": {
         "version": 0,
