@@ -193,10 +193,40 @@
             "#87FCFC",
             "#87FCFC"
         ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
         "STATUS_DANGER_TEXT": [
             "#AB33FF",
             "#AB33FF",
             "#AB33FF"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "TEXT_DANGER": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
+        ],
+        "NOTIFICATION_BADGE_BG": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "MENTION_BACKGROUND": [
+            "#6A00FF33",
+            "#6A00FF33",
+            "#6A00FF33"
         ]
     },
     "rawColors": {
@@ -207,7 +237,9 @@
         "BLACK_800": "#11141B",
         "BLACK_700": "#161A23",
         "BLACK_600": "#1C2230",
-        "WHITE_500": "#FFFFFF"
+        "WHITE_500": "#FFFFFF",
+        "RED_400": "#6A00FF",
+        "RED_500": "#AB33FF"
     },
     "background": {
         "url": "https://i.imgur.com/kCndyb2.jpeg",
@@ -223,7 +255,8 @@
             "ic_soundboard_muted": "#AB33FF",
             "ic_video": "#6A00FF",
             "ic_video_disabled": "#AB33FF"
-        }
+        },
+        "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
 }
