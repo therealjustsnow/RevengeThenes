@@ -148,6 +148,11 @@
             "#161A23",
             "#161A23"
         ],
+        "EMBED_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
         "TEXT_NORMAL": [
             "#FFFFFF",
             "#FFFFFF",
@@ -174,9 +179,9 @@
             "#AB33FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#11141B",
@@ -234,14 +239,14 @@
             "#6A00FF"
         ],
         "INTERACTIVE_TEXT_ACTIVE": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
-        ],
-        "INTERACTIVE_TEXT_DEFAULT": [
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
+        ],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
             "#6A00FF",
@@ -282,6 +287,16 @@
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
+        ],
+        "UNREAD_BAR": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "MENU_ITEM_DEFAULT_ACTIVE_BG": [
+            "#6A00FF33",
+            "#6A00FF33",
+            "#6A00FF33"
         ]
     },
     "rawColors": {
