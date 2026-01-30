@@ -134,9 +134,9 @@
             "#6A00FFB3"
         ],
         "CHAT_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#00000099",
+            "#00000099",
+            "#00000099"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#87FCFC",
@@ -314,7 +314,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
-        "alpha": 0.15
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
