@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Purple v1.3.2",
-    "description": "Full v1.3 logic restored with transparent purple glass fixes.",
+    "name": "ClearVision Purple v1.2.3",
+    "description": "v1.2 base with surgically fixed purple glass slash commands.",
     "authors": [
         {
             "name": "Snow",
@@ -24,9 +24,14 @@
             "#2A0066CC"
         ],
         "BACKGROUND_MENTIONED": [
-            "#6A00FF1A",
-            "#6A00FF1A",
-            "#6A00FF1A"
+            "#6A00FF08",
+            "#6A00FF08",
+            "#6A00FF08"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#6A00FF12",
+            "#6A00FF12",
+            "#6A00FF12"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#AB33FF08",
@@ -34,19 +39,29 @@
             "#AB33FF08"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_ACCENT": [
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#6A00FF35",
+            "#6A00FF35",
+            "#6A00FF35"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#AB33FF30",
+            "#AB33FF30",
+            "#AB33FF30"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#6A00FF60",
@@ -54,14 +69,19 @@
             "#6A00FF60"
         ],
         "BACKGROUND_PRIMARY": [
-            "transparent",
-            "transparent",
-            "transparent"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BG_BACKDROP": [
             "#0B0D12CC",
@@ -69,14 +89,19 @@
             "#0B0D12CC"
         ],
         "CHAT_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#2A006666",
+            "#2A006666",
+            "#2A006666"
+        ],
+        "HEADER_SECONDARY": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF",
@@ -98,59 +123,40 @@
             "#6A00FF",
             "#6A00FF"
         ],
+        "INTERACTIVE_HOVER": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
+        ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#6A00FF80",
-            "#6A00FF80",
-            "#6A00FF80"
-        ],
-        "STATUS_POSITIVE_BACKGROUND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "STATUS_DANGER_BACKGROUND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "MENTION_BACKGROUND": [
-            "#6A00FF33",
-            "#6A00FF33",
-            "#6A00FF33"
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
         ],
         "INTERACTIVE_TEXT_ACTIVE": [
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
         ],
-        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#2A006666",
+            "#2A006666",
+            "#2A006666"
         ],
-        "THREAD_CHANNEL_SPINE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+        "SCROLLBAR_AUTO_THUMB": [
+            "#6A00FF80",
+            "#6A00FF80",
+            "#6A00FF80"
         ]
     },
     "rawColors": {
         "BRAND_500": "#6A00FF",
-        "BRAND_560": "#AB33FF",
         "PLUM_11": "#2A006666",
-        "PLUM_15": "#6A00FF66",
-        "PLUM_17": "#2A006699",
+        "PLUM_17": "#2A0066CC",
         "PLUM_18": "#2A006699",
-        "PLUM_20": "transparent",
-        "PLUM_22": "#2A006699",
-        "PRIMARY_660": "#2A006699",
         "PRIMARY_700": "#2A006699",
-        "PRIMARY_800": "#AB33FF99",
+        "PRIMARY_800": "#2A006699",
+        "BLACK_900": "#000000B3",
         "WHITE_500": "#FFFFFF"
     },
     "background": {
