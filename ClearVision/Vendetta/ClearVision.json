@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision Purple v1.0",
+    "name": "ClearVision Revenge v1.1",
     "description": "ClearVision with purple accents.",
     "authors": [
         {
@@ -178,6 +178,11 @@
             "#6A00FF",
             "#6A00FF"
         ],
+        "THREAD_INDICATOR": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
         "TEXT_DEFAULT": [
             "#E6DCFF",
             "#E6DCFF",
@@ -197,6 +202,26 @@
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
+        ],
+        "COMMAND_BACKGROUND": [
+            "#111423",
+            "#111423",
+            "#111423"
+        ],
+        "COMMAND_TEXT": [
+            "#E6DCFF",
+            "#E6DCFF",
+            "#E6DCFF"
+        ],
+        "COMMAND_TEXT_MUTED": [
+            "#9C88E6",
+            "#9C88E6",
+            "#9C88E6"
+        ],
+        "COMMAND_HOVER": [
+            "#6A00FF33",
+            "#6A00FF33",
+            "#6A00FF33"
         ]
     },
     "rawColors": {
