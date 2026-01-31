@@ -1,5 +1,5 @@
 {
-    "name": "ClearVision Revenge v1.1",
+    "name": "ClearVision Purple v1.1",
     "description": "ClearVision with purple accents.",
     "authors": [
         {
@@ -44,9 +44,9 @@
             "#111423"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "#222959",
-            "#222959",
-            "#222959"
+            "#2B1A59",
+            "#2B1A59",
+            "#2B1A59"
         ],
         "BACKGROUND_MOD_STRONG": [
             "#222959",
@@ -124,9 +124,9 @@
             "#6A00FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#3f414c",
-            "#3f414c",
-            "#3f414c"
+            "#3F3A55",
+            "#3F3A55",
+            "#3F3A55"
         ],
         "INTERACTIVE_TEXT_ACTIVE": [
             "#6A00FF",
@@ -174,9 +174,9 @@
             "#6A00FF"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+            "#5000CC",
+            "#5000CC",
+            "#5000CC"
         ],
         "THREAD_INDICATOR": [
             "#6A00FF",
@@ -202,26 +202,6 @@
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
-        ],
-        "COMMAND_BACKGROUND": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "COMMAND_TEXT": [
-            "#E6DCFF",
-            "#E6DCFF",
-            "#E6DCFF"
-        ],
-        "COMMAND_TEXT_MUTED": [
-            "#9C88E6",
-            "#9C88E6",
-            "#9C88E6"
-        ],
-        "COMMAND_HOVER": [
-            "#6A00FF33",
-            "#6A00FF33",
-            "#6A00FF33"
         ]
     },
     "rawColors": {
@@ -241,7 +221,7 @@
         "PLUM_6": "#D1C7FF",
         "PLUM_9": "#B5A7E6",
         "PLUM_10": "#9985CC",
-        "PLUM_11": "#1A0E3D",
+        "PLUM_11": "#EDE6FF",
         "PLUM_13": "#4B2D8C",
         "PLUM_16": "#2D1A5E",
         "PLUM_18": "#1F0F47",
@@ -249,7 +229,8 @@
         "PLUM_23": "#6A00FF4D",
         "PRIMARY_400": "#B266FF",
         "PRIMARY_500": "#9C33FF",
-        "PRIMARY_660": "#3D007F"
+        "PRIMARY_660": "#3D007F",
+        "PLUM_11": "#EDE6FF"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
