@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Purple v1.2",
-    "description": "Clear Vision with purple accents.",
+    "name": "ClearVision Purple v1.6",
+    "description": "A purple version of ClearVision, with some additional theming.",
     "authors": [
         {
             "name": "Snow",
@@ -23,57 +23,12 @@
             "#000000B3",
             "#000000B3"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#6A00FF08",
-            "#6A00FF08",
-            "#6A00FF08"
-        ],
-        "BACKGROUND_MENTIONED_HOVER": [
-            "#6A00FF12",
-            "#6A00FF12",
-            "#6A00FF12"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#AB33FF08",
-            "#AB33FF08",
-            "#AB33FF08"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#222959",
-            "#222959",
-            "#222959"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#6A00FF35",
-            "#6A00FF35",
-            "#6A00FF35"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#AB33FF30",
-            "#AB33FF30",
-            "#AB33FF30"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#6A00FF60",
-            "#6A00FF60",
-            "#6A00FF60"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
@@ -98,11 +53,6 @@
             "#000000B3",
             "#000000B3"
         ],
-        "BG_BACKDROP": [
-            "#0B0D12CC",
-            "#0B0D12CC",
-            "#0B0D12CC"
-        ],
         "BG_BASE_PRIMARY": [
             "#000000B3",
             "#000000B3",
@@ -113,35 +63,10 @@
             "#000000B3",
             "#000000B3"
         ],
-        "CARD_PRIMARY_BG": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "CHANNEL_ICON": [
-            "#6A00FFB3",
-            "#6A00FFB3",
-            "#6A00FFB3"
-        ],
         "CHAT_BACKGROUND": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#000000B3",
@@ -149,6 +74,11 @@
             "#000000B3"
         ],
         "EMBED_BACKGROUND": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "INPUT_BACKGROUND": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
@@ -162,11 +92,6 @@
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
-        ],
-        "TEXT_LINK": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
         ],
         "TEXT_MUTED": [
             "#6A00FF",
@@ -184,162 +109,34 @@
             "#AB33FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#11141B",
-            "#11141B",
-            "#11141B"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#161A23",
-            "#161A23",
-            "#161A23"
-        ],
-        "STATUS_POSITIVE_TEXT": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
-        ],
-        "STATUS_POSITIVE_BACKGROUND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "STATUS_DANGER_TEXT": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "STATUS_DANGER_BACKGROUND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "INFO_DANGER_TEXT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "TEXT_DANGER": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "NOTIFICATION_BADGE_BG": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "MENTION_BACKGROUND": [
-            "#6A00FF33",
-            "#6A00FF33",
-            "#6A00FF33"
-        ],
-        "BACKGROUND_BRAND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "INTERACTIVE_TEXT_ACTIVE": [
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
-        ],
-        "INTERACTIVE_TEXT_DEFAULT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "MOBILE_TEXT_HEADING_PRIMARY": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "MOBILE_TEXT_HEADING_SECONDARY": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#1C2230",
-            "#1C2230",
-            "#1C2230"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "TEXT_SUBTLE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "THREAD_CHANNEL_SPINE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "UNREAD_BAR": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "MENU_ITEM_DEFAULT_ACTIVE_BG": [
-            "#6A00FF33",
-            "#6A00FF33",
-            "#6A00FF33"
-        ],
-        "BACKGROUND_SURFACE_HIGH": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
         ],
         "REPLY_BAR_BACKGROUND": [
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
-        ],
-        "TEXT_CODE": [
-            "#D1D1D1",
-            "#D1D1D1",
-            "#D1D1D1"
         ]
     },
     "rawColors": {
-        "PRIMARY_MAIN": "#6A00FF",
-        "PRIMARY_HOVER": "#AB33FF",
-        "PRIMARY_ALT": "#87FCFC",
-        "BLACK_900": "#0B0D12",
-        "BLACK_800": "#11141B",
-        "BLACK_700": "#161A23",
-        "BLACK_600": "#1C2230",
-        "WHITE_500": "#FFFFFF",
-        "RED_400": "#6A00FF",
-        "RED_500": "#AB33FF",
-        "BRAND_500": "#6A00FF"
+        "BLACK_600": "#000000B3",
+        "BLACK_700": "#000000B3",
+        "BLACK_800": "#000000B3",
+        "BLACK_900": "#000000B3",
+        "PRIMARY_560": "#000000B3",
+        "PRIMARY_600": "#000000B3",
+        "PRIMARY_630": "#000000B3",
+        "PRIMARY_660": "#000000B3",
+        "PRIMARY_700": "#000000B3",
+        "PRIMARY_800": "#000000B3",
+        "PRIMARY_900": "#000000B3",
+        "BRAND_500": "#6A00FF",
+        "WHITE_500": "#FFFFFF"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
-        "alpha": 1
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
@@ -350,8 +147,11 @@
             "ic_soundboard": "#6A00FF",
             "ic_soundboard_muted": "#AB33FF",
             "ic_video": "#6A00FF",
-            "ic_video_disabled": "#AB33FF"
-        }
+            "ic_video_disabled": "#AB33FF",
+            "ic_settings_24px": "#6A00FF",
+            "ic_help_24px": "#6A00FF"
+        },
+        "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
 }
