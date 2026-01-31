@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Purple v1.2.3",
-    "description": "ClearVision modified to be purple.",
+    "name": "ClearVision Purple v1.4",
+    "description": "The logic of v1.2.6 + The soul of Purple Glass.",
     "authors": [
         {
             "name": "Snow",
@@ -24,34 +24,39 @@
             "#2A0066CC"
         ],
         "BACKGROUND_MENTIONED": [
-            "#6A00FF08",
-            "#6A00FF08",
-            "#6A00FF08"
+            "#6A00FF1A",
+            "#6A00FF1A",
+            "#6A00FF1A"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#6A00FF12",
-            "#6A00FF12",
-            "#6A00FF12"
+            "#6A00FF26",
+            "#6A00FF26",
+            "#6A00FF26"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#AB33FF08",
-            "#AB33FF08",
-            "#AB33FF08"
+            "#AB33FF0D",
+            "#AB33FF0D",
+            "#AB33FF0D"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_ACCENT": [
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#222959",
+            "#222959",
+            "#222959"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#6A00FF35",
@@ -68,45 +73,185 @@
             "#6A00FF60",
             "#6A00FF60"
         ],
-        "BACKGROUND_PRIMARY": [
+        "BACKGROUND_NESTED_FLOATING": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "transparent",
+            "transparent",
+            "transparent"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
         ],
-        "BACKGROUND_SURFACE_HIGH": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "BG_BACKDROP": [
             "#0B0D12CC",
             "#0B0D12CC",
             "#0B0D12CC"
         ],
-        "CHAT_BACKGROUND": [
+        "BG_BASE_PRIMARY": [
             "#000000B3",
             "#000000B3",
             "#000000B3"
         ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "CHANNEL_ICON": [
+            "#6A00FFB3",
+            "#6A00FFB3",
+            "#6A00FFB3"
+        ],
+        "CHAT_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#87FCFC",
+            "#87FCFC",
+            "#87FCFC"
+        ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "EMBED_BACKGROUND": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "EXPRESSION_PICKER_BG": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
         ],
         "HEADER_SECONDARY": [
             "#AB33FF",
             "#AB33FF",
             "#AB33FF"
         ],
-        "TEXT_NORMAL": [
+        "INFO_DANGER_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "INFO_HELP_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "INFO_POSITIVE_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "INFO_WARNING_BACKGROUND": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "INPUT_BACKGROUND": [
+            "#2A006666",
+            "#2A006666",
+            "#2A006666"
+        ],
+        "INTERACTIVE_ACTIVE": [
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "MENTION_FOREGROUND": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "PANEL_BG": [
+            "transparent",
+            "transparent",
+            "transparent"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000B3",
+            "#000000B3",
+            "#000000B3"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#6A00FF80",
+            "#6A00FF80",
+            "#6A00FF80"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TYPING_INDICATOR_BG": [
+            "#2A006666",
+            "#2A006666",
+            "#2A006666"
         ],
         "TEXT_LINK": [
             "#87FCFC",
@@ -118,46 +263,39 @@
             "#6A00FF",
             "#6A00FF"
         ],
-        "INTERACTIVE_NORMAL": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "INTERACTIVE_TEXT_ACTIVE": [
+        "TEXT_NORMAL": [
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
-        ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#6A00FF80",
-            "#6A00FF80",
-            "#6A00FF80"
         ]
     },
     "rawColors": {
-        "BRAND_500": "#6A00FF",
-        "PLUM_11": "#2A006666",
-        "PLUM_17": "#2A0066CC",
-        "PLUM_18": "#2A006699",
+        "PRIMARY_100": "#AB33FF",
+        "PRIMARY_200": "#6A00FF",
+        "PRIMARY_300": "#6A00FF",
+        "PRIMARY_360": "#6A00FF",
+        "PRIMARY_400": "#2A0066",
+        "PRIMARY_500": "#6A00FF",
+        "PRIMARY_600": "#000000B3",
+        "PRIMARY_630": "#000000B3",
+        "PRIMARY_660": "#000000B3",
         "PRIMARY_700": "#2A006699",
         "PRIMARY_800": "#2A006699",
+        "PRIMARY_900": "#000000B3",
+        "BLACK_500": "#000000B3",
+        "BLACK_600": "#000000B3",
+        "BLACK_700": "#000000B3",
+        "BLACK_800": "#000000B3",
         "BLACK_900": "#000000B3",
-        "WHITE_500": "#FFFFFF"
+        "BRAND_260": "#6A00FF",
+        "BRAND_360": "#AB33FF",
+        "BRAND_500": "#6A00FF",
+        "BRAND_560": "#AB33FF",
+        "RED_400": "#6A00FF",
+        "WHITE_500": "#FFFFFF",
+        "PLUM_20": "transparent",
+        "PLUM_16": "transparent",
+        "PLUM_22": "transparent"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
@@ -169,9 +307,15 @@
         "icons": {
             "ic_mic_neutral": "#6A00FF",
             "ic_mic_muted_neutral": "#AB33FF",
+            "ic_soundboard": "#6A00FF",
+            "ic_soundboard_muted": "#AB33FF",
+            "ic_video": "#6A00FF",
+            "ic_video_disabled": "#AB33FF",
             "ic_settings_24px": "#6A00FF",
-            "ic_user_profile_24px": "#6A00FF"
-        }
+            "ic_user_profile_24px": "#6A00FF",
+            "ic_help_24px": "#6A00FF"
+        },
+        "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
 }
