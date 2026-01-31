@@ -1,10 +1,10 @@
 {
-    "name": "ClearVision Purple v2.0",
-    "description": "A purple mod of ClearVision",
+    "name": "ClearVision Purple v2.2",
+    "description": "A purple mod of ClearVision.",
     "authors": [
         {
             "name": "Snow",
-            "id": "335677038830"
+            "id": "335677038830682112"
         }
     ],
     "semanticColors": {
@@ -24,48 +24,48 @@
             "#2A0066"
         ],
         "BACKGROUND_MENTIONED": [
-            "#AB33FF1a",
-            "#AB33FF1a",
-            "#AB33FF1a"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#AB33FF1a",
-            "#AB33FF1a",
-            "#AB33FF1a"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#AB33FF1a",
-            "#AB33FF1a",
-            "#AB33FF1a"
+            "#bdae931a",
+            "#665c541a",
+            "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#222959",
-            "#222959",
-            "#222959"
+            "#2A0066",
+            "#2A0066",
+            "#2A0066"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#6A00FF26",
-            "#06142826",
+            "#00000026",
             "#6A00FF26"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#6A00FF26",
-            "#06142826",
+            "#00000026",
             "#6A00FF26"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
@@ -79,14 +79,14 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0a1426",
-            "#0a1426",
-            "#0a1426"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#111423",
@@ -94,9 +94,9 @@
             "#111423"
         ],
         "BACKGROUND_TERTIARY": [
-            "#04122e",
-            "#04122e",
-            "#04122e"
+            "#2A0066",
+            "#2A0066",
+            "#2A0066"
         ],
         "BG_BACKDROP": [
             "#2A0066b3",
@@ -104,29 +104,29 @@
             "#2A0066b3"
         ],
         "BG_BASE_PRIMARY": [
-            "#03081c",
-            "#03081c",
-            "#03081c"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#03081c",
-            "#03081c",
-            "#03081c"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#03081c",
-            "#03081c",
-            "#03081c"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "CARD_SECONDARY_BG": [
-            "#03081c",
-            "#03081c",
-            "#03081c"
+            "#000000",
+            "#000000",
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#575a68",
-            "#575a68",
-            "#575a68"
+            "#AB33FF",
+            "#AB33FF",
+            "#AB33FF"
         ],
         "CHANNEL_ICON": [
             "#6A00FF4d",
@@ -138,20 +138,25 @@
             "transparent",
             "transparent"
         ],
+        "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+            "#2A0066",
+            "#2A0066",
+            "#2A0066"
+        ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#2A0066",
             "#dcddde",
             "#000000"
         ],
-        "EMBED_BACKGROUND": [
-            "#031d30b3",
-            "#031d30b3",
-            "#031d30b3"
+        "HEADER_PRIMARY": [
+            "#dcddde",
+            "#2A0066",
+            "#dcddde"
         ],
         "HEADER_SECONDARY": [
             "#6A00FF",
@@ -196,12 +201,16 @@
     },
     "rawColors": {
         "PRIMARY_100": "#6A00FF",
+        "PRIMARY_200": "#AB33FF",
         "PRIMARY_360": "#6A00FF",
         "PRIMARY_400": "#2A0066",
         "PRIMARY_560": "#2A0066",
-        "BRAND_260": "#AB33FF",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
         "BRAND_500": "#6A00FF",
         "BRAND_560": "#6A00FF",
+        "RED_400": "#6A00FF",
         "WHITE_500": "#dcddde",
         "PLUM_20": "#2A0066",
         "PLUM_16": "#2A0066",
