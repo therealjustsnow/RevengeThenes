@@ -189,14 +189,14 @@
             "#AB33FF"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#6A00FF80",
-            "#6A00FF80",
-            "#6A00FF80"
+            "#11141B",
+            "#11141B",
+            "#11141B"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#0000004D",
-            "#0000004D",
-            "#0000004D"
+            "#161A23",
+            "#161A23",
+            "#161A23"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#87FCFC",
@@ -274,9 +274,9 @@
             "#AB33FF"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#1C2230",
+            "#1C2230",
+            "#1C2230"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#6A00FF",
@@ -328,10 +328,10 @@
         "PRIMARY_MAIN": "#6A00FF",
         "PRIMARY_HOVER": "#AB33FF",
         "PRIMARY_ALT": "#87FCFC",
-        "BLACK_900": "#000000B3",
-        "BLACK_800": "#000000B3",
-        "BLACK_700": "#000000B3",
-        "BLACK_600": "#000000B3",
+        "BLACK_900": "#0B0D12",
+        "BLACK_800": "#11141B",
+        "BLACK_700": "#161A23",
+        "BLACK_600": "#1C2230",
         "WHITE_500": "#FFFFFF",
         "RED_400": "#6A00FF",
         "RED_500": "#AB33FF",
@@ -339,7 +339,7 @@
     },
     "background": {
         "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
-        "alpha": 0.5
+        "alpha": 1
     },
     "plus": {
         "version": 0,
@@ -350,10 +350,7 @@
             "ic_soundboard": "#6A00FF",
             "ic_soundboard_muted": "#AB33FF",
             "ic_video": "#6A00FF",
-            "ic_video_disabled": "#AB33FF",
-            "ic_settings_24px": "#6A00FF",
-            "ic_user_profile_24px": "#6A00FF",
-            "ic_help_24px": "#6A00FF"
+            "ic_video_disabled": "#AB33FF"
         }
     },
     "spec": 2
