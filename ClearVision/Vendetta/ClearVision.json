@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Purple v1.4",
-    "description": "The logic of v1.2.6 + The soul of Purple Glass.",
+    "name": "ClearVision Purple v1.5",
+    "description": "A modded purple version of ClearVision.",
     "authors": [
         {
             "name": "Snow",
@@ -19,9 +19,9 @@
             "#000000B3"
         ],
         "BACKGROUND_FLOATING": [
-            "#2A0066CC",
-            "#2A0066CC",
-            "#2A0066CC"
+            "#2A0066E6",
+            "#2A0066E6",
+            "#2A0066E6"
         ],
         "BACKGROUND_MENTIONED": [
             "#6A00FF1A",
@@ -74,9 +74,9 @@
             "#6A00FF60"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_PRIMARY": [
             "transparent",
@@ -84,19 +84,19 @@
             "transparent"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BG_BACKDROP": [
             "#0B0D12CC",
@@ -109,9 +109,9 @@
             "#000000B3"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "CARD_PRIMARY_BG": [
             "#000000B3",
@@ -189,9 +189,9 @@
             "transparent"
         ],
         "INPUT_BACKGROUND": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FFFFFF",
@@ -276,12 +276,12 @@
         "PRIMARY_360": "#6A00FF",
         "PRIMARY_400": "#2A0066",
         "PRIMARY_500": "#6A00FF",
-        "PRIMARY_600": "#000000B3",
-        "PRIMARY_630": "#000000B3",
-        "PRIMARY_660": "#000000B3",
+        "PRIMARY_600": "#2A006699",
+        "PRIMARY_630": "#2A006699",
+        "PRIMARY_660": "#2A006699",
         "PRIMARY_700": "#2A006699",
         "PRIMARY_800": "#2A006699",
-        "PRIMARY_900": "#000000B3",
+        "PRIMARY_900": "#2A006699",
         "BLACK_500": "#000000B3",
         "BLACK_600": "#000000B3",
         "BLACK_700": "#000000B3",
@@ -293,9 +293,9 @@
         "BRAND_560": "#AB33FF",
         "RED_400": "#6A00FF",
         "WHITE_500": "#FFFFFF",
-        "PLUM_20": "transparent",
-        "PLUM_16": "transparent",
-        "PLUM_22": "transparent"
+        "PLUM_20": "#2A006699",
+        "PLUM_16": "#2A006699",
+        "PLUM_22": "#2A006699"
     },
     "background": {
         "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
@@ -303,7 +303,7 @@
     },
     "plus": {
         "version": 0,
-        "customOverlays": false,
+        "customOverlays": true,
         "icons": {
             "ic_mic_neutral": "#6A00FF",
             "ic_mic_muted_neutral": "#AB33FF",
