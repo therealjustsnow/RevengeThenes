@@ -1,108 +1,33 @@
 {
-    "name": "ClearVision Purple v2.2",
-    "description": "Purple Tinted Glass mod of ClearVision. Edited by Snow.",
+    "name": "ClearVision Purple v2.1",
+    "description": "Purple glass mod of ClearVision.",
     "authors": [
-        {
-            "name": "Snow",
-            "id": "335677038830"
-        }
+        { "name": "Snow", "id": "335677038830" }
     ],
     "semanticColors": {
-        "ANDROID_RIPPLE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "ACTIVITY_CARD_BACKGROUND": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#2A0066CC",
-            "#2A0066CC",
-            "#2A0066CC"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#2A006699",
-            "#2A006699",
-            "#2A006699"
-        ],
-        "CHAT_BACKGROUND": [
-            "transparent",
-            "transparent",
-            "transparent"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
-        ],
-        "INPUT_BACKGROUND": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
-        ],
-        "TEXT_NORMAL": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "TEXT_MUTED": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ]
+        "ANDROID_RIPPLE": [ "#6A00FF", "#6A00FF", "#6A00FF" ],
+        "ACTIVITY_CARD_BACKGROUND": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_FLOATING": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_NESTED_FLOATING": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_MOBILE_PRIMARY": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_MOBILE_SECONDARY": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_PRIMARY": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_SECONDARY": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_SECONDARY_ALT": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "BACKGROUND_TERTIARY": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "CHAT_BACKGROUND": [ "transparent", "transparent", "transparent" ],
+        "CHANNELTEXTAREA_BACKGROUND": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "INPUT_BACKGROUND": [ "#000000B3", "#000000B3", "#000000B3" ],
+        "TEXT_NORMAL": [ "#FFFFFF", "#FFFFFF", "#FFFFFF" ],
+        "TEXT_MUTED": [ "#6A00FF", "#6A00FF", "#6A00FF" ],
+        "INTERACTIVE_NORMAL": [ "#6A00FF", "#6A00FF", "#6A00FF" ],
+        "INTERACTIVE_HOVER": [ "#AB33FF", "#AB33FF", "#AB33FF" ],
+        "INTERACTIVE_ACTIVE": [ "#FFFFFF", "#FFFFFF", "#FFFFFF" ]
     },
     "rawColors": {
-        "BLACK_500": "#2A006666",
-        "BLACK_600": "#2A006699",
-        "BLACK_900": "#2A006699",
+        "BLACK_500": "#00000066",
+        "BLACK_600": "#000000B3",
+        "BLACK_900": "#000000B3",
         "BRAND_260": "#6A00FF",
         "BRAND_360": "#AB33FF",
         "BRAND_500": "#6A00FF",
@@ -111,20 +36,24 @@
         "PLUM_3": "#FFFFFF",
         "PLUM_6": "#FFFFFF",
         "PLUM_9": "#AB33FF",
-        "PLUM_10": "#FFFFFF",
-        "PLUM_11": "#2A00664D",
-        "PLUM_15": "#2A006699",
-        "PLUM_17": "#2A006699",
-        "PLUM_18": "#2A006699",
-        "PLUM_19": "#2A006699",
-        "PLUM_20": "#2A006699",
-        "PLUM_22": "#2A006699",
-        "PLUM_23": "#2A006699",
-        "PLUM_24": "#2A006699",
+        "PLUM_10": "#6A00FF",
+        "PLUM_11": "#00000066",
+        "PLUM_15": "#000000B3",
+        "PLUM_16": "#6A00FF",
+        "PLUM_17": "#000000B3",
+        "PLUM_18": "#000000B3",
+        "PLUM_19": "#000000B3",
+        "PLUM_20": "#000000B3",
+        "PLUM_22": "#000000B3",
+        "PLUM_23": "#000000B3",
+        "PLUM_24": "#000000B3",
         "PRIMARY_300": "#6A00FF",
-        "PRIMARY_660": "#2A006699",
-        "PRIMARY_700": "#2A006699",
-        "PRIMARY_800": "#2A006699",
+        "PRIMARY_400": "#AB33FF",
+        "PRIMARY_500": "#6A00FF",
+        "PRIMARY_660": "#000000B3",
+        "PRIMARY_700": "#000000B3",
+        "PRIMARY_800": "#000000B3",
+        "RED_400": "#6A00FF",
         "WHITE_500": "#FFFFFF"
     },
     "background": {
