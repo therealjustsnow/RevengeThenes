@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision Purple v2.0",
-    "description": "Transparent purple glass UI and slash commands.",
+    "name": "ClearVision Purple v2.2",
+    "description": "Purple Tinted Glass mod of ClearVision. Edited by Snow.",
     "authors": [
         {
             "name": "Snow",
@@ -14,49 +14,49 @@
             "#6A00FF"
         ],
         "ACTIVITY_CARD_BACKGROUND": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
-        ],
-        "BACKGROUND_FLOATING": [
             "#2A006699",
             "#2A006699",
             "#2A006699"
         ],
+        "BACKGROUND_FLOATING": [
+            "#2A0066CC",
+            "#2A0066CC",
+            "#2A0066CC"
+        ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000B3",
-            "#000000B3",
-            "#000000B3"
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
-        "BG_BACKDROP": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
+        "BACKGROUND_TERTIARY": [
+            "#2A006699",
+            "#2A006699",
+            "#2A006699"
         ],
         "CHAT_BACKGROUND": [
             "transparent",
@@ -68,20 +68,10 @@
             "#2A006666",
             "#2A006666"
         ],
-        "EXPRESSION_PICKER_BG": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
-        ],
         "INPUT_BACKGROUND": [
             "#2A006666",
             "#2A006666",
             "#2A006666"
-        ],
-        "HEADER_SECONDARY": [
-            "#AB33FF",
-            "#AB33FF",
-            "#AB33FF"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF",
@@ -94,9 +84,9 @@
             "#AB33FF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
             "#AB33FF",
@@ -107,29 +97,34 @@
             "#FFFFFF",
             "#FFFFFF",
             "#FFFFFF"
-        ],
-        "REPLY_BAR_BACKGROUND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "TYPING_INDICATOR_BG": [
-            "#2A006666",
-            "#2A006666",
-            "#2A006666"
         ]
     },
     "rawColors": {
-        "PRIMARY_560": "#2A006666",
-        "PRIMARY_600": "#2A006666",
-        "PRIMARY_630": "#000000B3",
-        "PRIMARY_700": "#000000B3",
-        "PRIMARY_800": "#000000B3",
-        "BLACK_600": "#2A006666",
-        "BLACK_700": "#2A006666",
-        "BLACK_800": "#2A006666",
-        "BLACK_900": "#2A006666",
+        "BLACK_500": "#2A006666",
+        "BLACK_600": "#2A006699",
+        "BLACK_900": "#2A006699",
+        "BRAND_260": "#6A00FF",
+        "BRAND_360": "#AB33FF",
         "BRAND_500": "#6A00FF",
+        "BRAND_560": "#AB33FF",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_3": "#FFFFFF",
+        "PLUM_6": "#FFFFFF",
+        "PLUM_9": "#AB33FF",
+        "PLUM_10": "#FFFFFF",
+        "PLUM_11": "#2A00664D",
+        "PLUM_15": "#2A006699",
+        "PLUM_17": "#2A006699",
+        "PLUM_18": "#2A006699",
+        "PLUM_19": "#2A006699",
+        "PLUM_20": "#2A006699",
+        "PLUM_22": "#2A006699",
+        "PLUM_23": "#2A006699",
+        "PLUM_24": "#2A006699",
+        "PRIMARY_300": "#6A00FF",
+        "PRIMARY_660": "#2A006699",
+        "PRIMARY_700": "#2A006699",
+        "PRIMARY_800": "#2A006699",
         "WHITE_500": "#FFFFFF"
     },
     "background": {
@@ -147,6 +142,7 @@
             "ic_video": "#6A00FF",
             "ic_video_disabled": "#AB33FF",
             "ic_settings_24px": "#6A00FF",
+            "ic_user_profile_24px": "#6A00FF",
             "ic_help_24px": "#6A00FF"
         },
         "iconpack": "rosiecord-plumpy"
