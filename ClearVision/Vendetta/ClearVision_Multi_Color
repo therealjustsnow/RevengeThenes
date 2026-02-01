@@ -13,6 +13,11 @@
             "#E33D94",
             "#E33D94"
         ],
+"MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": {
+"#E33D94",
+"#E33D94",
+"#E33D94"
+],
         "BACKGROUND_ACCENT": [
             "#6A00FF",
             "#6A00FF",
@@ -49,9 +54,9 @@
             "#2B1A59"
         ],
         "BACKGROUND_MOD_STRONG": [
-            "#222959",
-            "#222959",
-            "#222959"
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "BACKGROUND_SCRIM": [
             "#00000066",
@@ -87,6 +92,11 @@
             "#6A00FF",
             "#6A00FF",
             "#6A00FF"
+        ],
+       "BUTTON_OUTLINE_DANGER_BORDER": [
+           "#6A00FF",
+           "#6A00FF",
+           "#6A00FF"
         ],
         "CARD_BACKGROUND_DEFAULT": [
             "#0F1428",
@@ -222,7 +232,7 @@
         "PRIMARY_230": "#B18AFF",
         "PRIMARY_100": "#A070FF",
         "BLUE_345": "#87FCFC",
-        "PLUM_1": "#EEE8FF",
+        "PLUM_1": "6A00FF",
         "PLUM_3": "#CBB8FF",
         "PLUM_6": "#D1C7FF",
         "PLUM_9": "#B5A7E6",
@@ -237,8 +247,8 @@
         "PLUM_23": "#6A00FF4D"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/jamlotrasoiaf/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/dark.jpg",
-        "alpha": 1
+        "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
