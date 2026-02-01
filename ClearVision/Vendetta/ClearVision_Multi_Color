@@ -139,9 +139,9 @@
             "#3F3A55"
         ],
         "INTERACTIVE_TEXT_ACTIVE": [
-            "#E33D94",
-            "#E33D94",
-            "#E33D94"
+            "#6A00FF",
+            "#6A00FF",
+            "#6A00FF"
         ],
         "INTERACTIVE_TEXT_DEFAULT": [
             "#E6DCFF",
@@ -226,7 +226,7 @@
         "PRIMARY_800": "#2E005F",
         "PRIMARY_700": "#C3A6FF",
         "PRIMARY_660": "#3D007F",
-        "PRIMARY_500": "#9C33FF",
+        "PRIMARY_500": "#6A00FF",
         "PRIMARY_400": "#B266FF",
         "PRIMARY_300": "#9C27B0",
         "PRIMARY_230": "#B18AFF",
