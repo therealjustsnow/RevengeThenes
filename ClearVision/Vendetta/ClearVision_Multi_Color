@@ -1,267 +1,269 @@
 {
-    "name": "ClearVision Purple v1.4",
-    "description": "ClearVision with purple core, pink interaction, and cyan personal reply accents.",
-    "authors": [
-        {
-            "name": "Taki_Shiwa, edited by Snow",
-            "id": "335677038830682112"
-        }
-    ],
-    "semanticColors": {
-        "ANDROID_RIPPLE": [
-            "#E33D94",
-            "#E33D94",
-            "#E33D94"
-        ],
-        "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
-            "#E33D94",
-            "#E33D94",
-            "#E33D94"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#E33D944D",
-            "#E33D944D",
-            "#E33D944D"
-        ],
-        "BACKGROUND_BASE_LOW": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "BACKGROUND_BASE_LOWER": [
-            "#0F1428",
-            "#0F1428",
-            "#0F1428"
-        ],
-        "BACKGROUND_BASE_LOWEST": [
-            "#0A1226",
-            "#0A1226",
-            "#0A1226"
-        ],
-        "BACKGROUND_BRAND": [
-            "#6A00FFCC",
-            "#6A00FFCC",
-            "#6A00FFCC"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "BACKGROUND_MOD_MUTED": [
-            "#2B1A59",
-            "#2B1A59",
-            "#2B1A59"
-        ],
-        "BACKGROUND_MOD_STRONG": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "BACKGROUND_SCRIM": [
-            "#00000099",
-            "#00000099",
-            "#00000099"
-        ],
-        "BACKGROUND_SURFACE_HIGH": [
-            "#050615",
-            "#050615",
-            "#050615"
-        ],
-        "BG_SURFACE_OVERLAY_TMP": [
-            "#0A0A20E6",
-            "#0A0A20E6",
-            "#0A0A20E6"
-        ],
-        "BG_SURFACE_RAISED": [
-            "#0A0A20",
-            "#0A0A20",
-            "#0A0A20"
-        ],
-        "BORDER_MUTED": [
-            "#222959",
-            "#222959",
-            "#222959"
-        ],
-        "BORDER_SUBTLE": [
-            "#222959",
-            "#222959",
-            "#222959"
-        ],
-        "BORDER_STRONG": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "BUTTON_OUTLINE_DANGER_BORDER": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "CARD_BACKGROUND_DEFAULT": [
-            "#0F1428",
-            "#0F1428",
-            "#0F1428"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "CHANNEL_ICON": [
-            "#6A00FF4D",
-            "#6A00FF4D",
-            "#6A00FF4D"
-        ],
-        "EMBED_BACKGROUND": [
-            "#111423B3",
-            "#111423B3",
-            "#111423B3"
-        ],
-        "INPUT_BACKGROUND_DEFAULT": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "INTERACTIVE_BACKGROUND_ACTIVE": [
-            "#87FCFC33",
-            "#87FCFC33",
-            "#87FCFC33"
-        ],
-        "INTERACTIVE_ICON_DEFAULT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#3F3A55",
-            "#3F3A55",
-            "#3F3A55"
-        ],
-        "INTERACTIVE_TEXT_ACTIVE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "INTERACTIVE_TEXT_DEFAULT": [
-            "#E6DCFF",
-            "#E6DCFF",
-            "#E6DCFF"
-        ],
-        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-            "#6A00FF33",
-            "#6A00FF33",
-            "#6A00FF33"
-        ],
-        "MESSAGE_MENTIONED_BACKGROUND_HOVER": [
-            "#6A00FF4D",
-            "#6A00FF4D",
-            "#6A00FF4D"
-        ],
-        "PANEL_BG": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#E33D94",
-            "#E33D94",
-            "#E33D94"
-        ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#111423",
-            "#111423",
-            "#111423"
-        ],
-        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#87FCFC33",
-            "#87FCFC33",
-            "#87FCFC33"
-        ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#E33D9433",
-            "#E33D9433",
-            "#E33D9433"
-        ],
-        "THREAD_CHANNEL_SPINE": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "THREAD_INDICATOR": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
-        ],
-        "TEXT_DEFAULT": [
-            "#E6DCFF",
-            "#E6DCFF",
-            "#E6DCFF"
-        ],
-        "TEXT_MUTED": [
-            "#9C88E6",
-            "#9C88E6",
-            "#9C88E6"
-        ],
-        "TEXT_STRONG": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "TEXT_LINK": [
-            "#87FCFC",
-            "#87FCFC",
-            "#87FCFC"
-        ]
-    },
-    "rawColors": {
-        "RED_400": "#6A00FF",
-        "BRAND_360": "#6A00FF",
-        "BRAND_500": "#6A00FF",
-        "PRIMARY_800": "#2E005F",
-        "PRIMARY_700": "#C3A6FF",
-        "PRIMARY_660": "#3D007F",
-        "PRIMARY_500": "#6A00FF",
-        "PRIMARY_400": "#B266FF",
-        "PRIMARY_300": "#9C27B0",
-        "PRIMARY_230": "#B18AFF",
-        "PRIMARY_100": "#A070FF",
-        "BLUE_345": "#87FCFC",
-        "PLUM_1": "#6A00FF",
-        "PLUM_3": "#CBB8FF",
-        "PLUM_6": "#D1C7FF",
-        "PLUM_9": "#B5A7E6",
-        "PLUM_10": "#9985CC",
-        "PLUM_11": "#EDE6FF",
-        "PLUM_13": "#4B2D8C",
-        "PLUM_15": "#3A1A7A",
-        "PLUM_16": "#2D1A5E",
-        "PLUM_18": "#2A145A",
-        "PLUM_19": "#2A1460",
-        "PLUM_20": "#00000066",
-        "PLUM_22": "#87FCFC33",
-        "PLUM_23": "#6A00FF4D"
-    },
-    "background": {
-        "url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
-        "alpha": 0.45
-    },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
-            "ic_mic_neutral": "#111423",
-            "ic_mic_muted_neutral": "#111423",
-            "ic_soundboard": "#111423",
-            "ic_soundboard_muted": "#111423",
-            "ic_video": "#111423",
-            "ic_video_disabled": "#111423"
-        }
-    },
-    "spec": 2
+"name": "ClearVision Purple v1.4",
+"description": "ClearVision with purple core, pink interaction, and cyan personal reply accents.",
+"authors": [
+{
+"name": "Taki_Shiwa, edited by Snow",
+"id": "335677038830682112"
 }
+],
+"semanticColors": {
+"ANDROID_RIPPLE": [
+"#E33D94",
+"#E33D94",
+"#E33D94"
+],
+"MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+"#E33D94",
+"#E33D94",
+"#E33D94"
+],
+"BACKGROUND_ACCENT": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"BACKGROUND_BASE_LOW": [
+"#111423",
+"#111423",
+"#111423"
+],
+"BACKGROUND_BASE_LOWER": [
+"#0F1428",
+"#0F1428",
+"#0F1428"
+],
+"BACKGROUND_BASE_LOWEST": [
+"#0A1226",
+"#0A1226",
+"#0A1226"
+],
+"BACKGROUND_BRAND": [
+"#6A00FFCC",
+"#6A00FFCC",
+"#6A00FFCC"
+],
+"BACKGROUND_FLOATING": [
+"#111423",
+"#111423",
+"#111423"
+],
+"BACKGROUND_MOD_MUTED": [
+"#2B1A59",
+"#2B1A59",
+"#2B1A59"
+],
+"BACKGROUND_MOD_STRONG": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"BACKGROUND_SCRIM": [
+"#00000099",
+"#00000099",
+"#00000099"
+],
+"BACKGROUND_SURFACE_HIGH": [
+"#050615",
+"#050615",
+"#050615"
+],
+"BG_SURFACE_OVERLAY_TMP": [
+"#0A0A20E6",
+"#0A0A20E6",
+"#0A0A20E6"
+],
+"BG_SURFACE_RAISED": [
+"#0A0A20",
+"#0A0A20",
+"#0A0A20"
+],
+"BORDER_MUTED": [
+"#222959",
+"#222959",
+"#222959"
+],
+"BORDER_SUBTLE": [
+"#222959",
+"#222959",
+"#222959"
+],
+"BORDER_STRONG": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"BUTTON_OUTLINE_DANGER_BORDER": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"CARD_BACKGROUND_DEFAULT": [
+"#0F1428",
+"#0F1428",
+"#0F1428"
+],
+"CARD_SECONDARY_BG": [
+"#111423",
+"#111423",
+"#111423"
+],
+"CHANNEL_ICON": [
+"#6A00FF4D",
+"#6A00FF4D",
+"#6A00FF4D"
+],
+"EMBED_BACKGROUND": [
+"#111423B3",
+"#111423B3",
+"#111423B3"
+],
+"INPUT_BACKGROUND_DEFAULT": [
+"#111423",
+"#111423",
+"#111423"
+],
+"INTERACTIVE_BACKGROUND_ACTIVE": [
+"#87FCFC33",
+"#87FCFC33",
+"#87FCFC33"
+],
+"INTERACTIVE_ICON_DEFAULT": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"INTERACTIVE_MUTED": [
+"#3F3A55",
+"#3F3A55",
+"#3F3A55"
+],
+"INTERACTIVE_TEXT_ACTIVE": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"INTERACTIVE_TEXT_DEFAULT": [
+"#E6DCFF",
+"#E6DCFF",
+"#E6DCFF"
+],
+"MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+"#6A00FF33",
+"#6A00FF33",
+"#6A00FF33"
+],
+"MESSAGE_MENTIONED_BACKGROUND_HOVER": [
+"#6A00FF4D",
+"#6A00FF4D",
+"#6A00FF4D"
+],
+"PANEL_BG": [
+"#111423",
+"#111423",
+"#111423"
+],
+"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+"#111423",
+"#111423",
+"#111423"
+],
+"REDESIGN_BUTTON_SECONDARY_BORDER": [
+"#E33D94",
+"#E33D94",
+"#E33D94"
+],
+"REDESIGN_CHAT_INPUT_BACKGROUND": [
+"#111423",
+"#111423",
+"#111423"
+],
+"REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+"#87FCFC33",
+"#87FCFC33",
+"#87FCFC33"
+],
+"REDESIGN_INPUT_CONTROL_SELECTED": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"THREAD_CHANNEL_SPINE": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"THREAD_INDICATOR": [
+"#6A00FF",
+"#6A00FF",
+"#6A00FF"
+],
+"TEXT_DEFAULT": [
+"#E6DCFF",
+"#E6DCFF",
+"#E6DCFF"
+],
+"TEXT_MUTED": [
+"#9C88E6",
+"#9C88E6",
+"#9C88E6"
+],
+"TEXT_STRONG": [
+"#FFFFFF",
+"#FFFFFF",
+"#FFFFFF"
+],
+"TEXT_LINK": [
+"#87FCFC",
+"#87FCFC",
+"#87FCFC"
+]
+},
+"rawColors": {
+"RED_400": "#6A00FF",
+"BRAND_360": "#6A00FF",
+"BRAND_500": "#6A00FF",
+"PRIMARY_800": "#2E005F",
+"PRIMARY_700": "#C3A6FF",
+"PRIMARY_660": "#3D007F",
+"PRIMARY_500": "#6A00FF",
+"PRIMARY_400": "#B266FF",
+"PRIMARY_300": "#9C27B0",
+"PRIMARY_230": "#B18AFF",
+"PRIMARY_100": "#A070FF",
+"BLUE_345": "#87FCFC",
+"PLUM_1": "#6A00FF",
+"PLUM_3": "#CBB8FF",
+"PLUM_6": "#D1C7FF",
+"PLUM_9": "#B5A7E6",
+"PLUM_10": "#9985CC",
+"PLUM_11": "#EDE6FF",
+"PLUM_13": "#4B2D8C",
+"PLUM_15": "#3A1A7A",
+"PLUM_16": "#2D1A5E",
+"PLUM_18": "#2A145A",
+"PLUM_19": "#2A1460",
+"PLUM_20": "#00000066",
+"PLUM_22": "#87FCFC33",
+"PLUM_23": "#6A00FF4D"
+},
+"background": {
+"url": "https://raw.githubusercontent.com/therealjustsnow/RevengeThenes/refs/heads/main/ClearVision/Vendetta/kCndyb2.jpeg",
+"alpha": 0.45
+},
+"plus": {
+"version": 0,
+"customOverlays": true,
+"icons": {
+"ic_mic_neutral": "#111423",
+"ic_mic_muted_neutral": "#111423",
+"ic_soundboard": "#111423",
+"ic_soundboard_muted": "#111423",
+"ic_video": "#111423",
+"ic_video_disabled": "#111423"
+}
+},
+"spec": 2
+}
+
+Does this have any pink hexes?
