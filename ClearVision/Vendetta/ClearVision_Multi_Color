@@ -39,9 +39,9 @@
             "#0A1226"
         ],
         "BACKGROUND_BRAND": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+            "#6A00FFCC",
+            "#6A00FFCC",
+            "#6A00FFCC"
         ],
         "BACKGROUND_FLOATING": [
             "#111423",
@@ -69,9 +69,9 @@
             "#0A0A20"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#111423",
-            "#111423",
-            "#111423"
+            "#0A0A20E6",
+            "#0A0A20E6",
+            "#0A0A20E6"
         ],
         "BG_SURFACE_RAISED": [
             "#0A0A20",
