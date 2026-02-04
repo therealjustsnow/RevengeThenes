@@ -19,9 +19,9 @@
             "#E33D94"
         ],
         "BACKGROUND_ACCENT": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+            "#E33D944D",
+            "#E33D944D",
+            "#E33D944D"
         ],
         "BACKGROUND_BASE_LOW": [
             "#111423",
@@ -184,9 +184,9 @@
             "#87FCFC33"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#6A00FF",
-            "#6A00FF",
-            "#6A00FF"
+            "#E33D9433",
+            "#E33D9433",
+            "#E33D9433"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#6A00FF",
