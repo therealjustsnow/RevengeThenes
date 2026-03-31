@@ -134,9 +134,9 @@
       "#0A0A20"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#0A0A20E6",
-      "#0A0A20E6",
-      "#0A0A20E6"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "BG_SURFACE_RAISED": [
       "#0A0A20",
@@ -902,6 +902,46 @@
       "#6A00FF",
       "#6A00FF",
       "#6A00FF"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#111423",
+      "#111423",
+      "#111423"
+    ],
+    "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#5500CC",
+      "#5500CC",
+      "#5500CC"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#E6DCFF",
+      "#E6DCFF",
+      "#E6DCFF"
+    ],
+    "TEXT_SUBTLE": [
+      "#9C88E6",
+      "#9C88E6",
+      "#9C88E6"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#7A6BB3",
+      "#7A6BB3",
+      "#7A6BB3"
+    ],
+    "TEXT_STATUS_DND": [
+      "#F23F43",
+      "#F23F43",
+      "#F23F43"
     ]
   },
   "rawColors": {
