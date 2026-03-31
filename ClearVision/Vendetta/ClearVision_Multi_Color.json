@@ -9,14 +9,14 @@
   ],
   "semanticColors": {
     "ANDROID_NAVIGATION_BAR_BACKGROUND": [
-      "#050615",
-      "#050615",
-      "#050615"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#05061580",
-      "#05061580",
-      "#05061580"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "ANDROID_RIPPLE": [
       "#E33D94",
@@ -84,9 +84,9 @@
       "#F0B2321A"
     ],
     "BACKGROUND_FLOATING": [
-      "#111423",
-      "#111423",
-      "#111423"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "BACKGROUND_MOD_MUTED": [
       "#2B1A594D",
@@ -269,9 +269,9 @@
       "#111423"
     ],
     "CHAT_BANNER_BG": [
-      "#0F1428",
-      "#0F1428",
-      "#0F1428"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "CHAT_BORDER": [
       "#222959",
@@ -544,9 +544,9 @@
       "#0F1428"
     ],
     "MOBILE_BACKGROUND_SCRIM_OPAQUE": [
-      "#050615",
-      "#050615",
-      "#050615"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "MODAL_BACKGROUND": [
       "#0F1428",
@@ -564,9 +564,9 @@
       "#E6DCFF"
     ],
     "PANEL_BG": [
-      "#111423",
-      "#111423",
-      "#111423"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "PROFILE_GRADIENT_NOTE_BACKGROUND": [
       "#0A0A20B3",
@@ -719,9 +719,9 @@
       "#F0B232"
     ],
     "TAB_BAR_BACKGROUND": [
-      "#050615",
-      "#050615",
-      "#050615"
+      "#0C0E1A",
+      "#0C0E1A",
+      "#0C0E1A"
     ],
     "TAB_LABEL_TEXT_DEFAULT": [
       "#9C88E6",
